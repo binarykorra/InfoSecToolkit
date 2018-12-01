@@ -1,5 +1,5 @@
 # Info Sec Toolkit with Snowflakes: Decoded.
-My Own Arsenals with Information Security, Toolkit. I am planning to expand these for Apple-based Codex, Like the Mach-O Kernel; and Darwin Kernel, For Unlocking Apple-based Products, Its not called Intellectual Theft for Blueprints, Its called Reverse Engineering.
+My Own Arsenals with Information Security, Toolkit. I am planning to expand these for Apple-based Codex, Like the Mach-O Kernel; and Darwin Kernel, For Unlocking Apple-based Products, Its not called Intellectual Theft for Blueprints, Its called Reverse Engineering without Damaging any of their Products, As is; It might not also be prior to misconduct a Theft of their Property, Because this is a Knowledgebase of Tools and the Famous Quote: "Hack to Learn" ..
 
 ## Tools: I Uploaded Here.
 
