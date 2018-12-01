@@ -11,6 +11,6 @@ Preview of Terminus:
 
 ![alt text](https://raw.githubusercontent.com/binarykorra/InfoSecToolkit/master/Terminus.png)
 
-OSX / Macho-O Version:
+OSX / Mach-O Version:
 
 Keep Updated!
